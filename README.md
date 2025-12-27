@@ -90,10 +90,10 @@
 
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/alinabi19/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:alinabi.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
