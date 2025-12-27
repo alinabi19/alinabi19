@@ -7,7 +7,7 @@
 👩‍💻 Backend-focused Software Engineer specializing in ASP.NET Core, C#, Web APIs, SQL Server, and Azure.<br>
 🤝 Open to collaborating on .NET backend systems, RESTful APIs, and scalable cloud applications. <br>
 💬 Ask me about ASP.NET Core, C#, Web APIs, SQL optimization, authentication (JWT/OAuth), and Azure. <br>
-🌱 Deepening expertise in ASP.NET Core internals, backend system design, and performance optimization
+🌱 Deepening expertise in ASP.NET Core internals, backend system design, and performance optimization.
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=5EEAD4&center=true&vCenter=true&width=520&lines=Backend+Engineering;ASP.NET+Core+%7C+Web+APIs;Clean+Architecture+%26+Scalable+Systems;Always+Learning%2C+Always+Improving" />
